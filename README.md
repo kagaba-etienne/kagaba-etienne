@@ -29,4 +29,4 @@ If you want to chat about tech, dogs, or anything in between, feel free to conne
 
 Thanks for stopping by! 🙏
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kagaba-etienne=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kagaba-etienne)](https://github.com/anuraghazra/github-readme-stats)
