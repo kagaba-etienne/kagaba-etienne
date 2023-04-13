@@ -28,3 +28,5 @@ If you want to chat about tech, dogs, or anything in between, feel free to conne
 * Twitter: https://twitter.com/kagaba_etienne
 
 Thanks for stopping by! 🙏
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kagaba-etienne=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
