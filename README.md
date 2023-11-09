@@ -37,7 +37,7 @@ When I'm not coding, I'm often exploring the outdoors or trying out new cuisines
 
 If you want to chat about tech, dogs, or anything in between, feel free to connect with me on:
 
-<a href="https://www.linkedin.com/in/etienne-kagaba-shingiro-88b57324a/" target="_blank">
+<a href="https://www.linkedin.com/in/etienne-kagaba/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
